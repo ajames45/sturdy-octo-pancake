@@ -13,3 +13,9 @@ terraform -help plan
 
 #Enable tab completion
 terraform -install-autocomplete
+
+
+#Install AWS CLI 
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
+
+aws configure
